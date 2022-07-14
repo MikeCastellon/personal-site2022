@@ -57,7 +57,8 @@ const ContactForm = ({ className, url }) => {
                 <form
                     className="rnt-contact-form rwt-dynamic-form row"
                     id="contact-form"
-                    onSubmit={handleSubmit(onSubmit)}
+                    method="POST"
+                    action="https://getform.io/f/e74efc7e-84ea-46d8-ad8a-513c099a78b5"
                 >
                     <div className="col-lg-6">
                         <FormGroup>

@@ -34,9 +34,6 @@ const IndexPage = ({ data }) => {
                 />
                 <ServicesArea data={content["service-section"]} />
                 <PortfolioArea data={content["portfolio-section"]} />
-                <TestimonialArea data={content["testimonial-section"]} />
-                <PricingArea data={content["pricing-section"]} />
-
                 <ContactArea
                     data={{
                         ...content["contact-section"],
