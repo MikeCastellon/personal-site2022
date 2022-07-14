@@ -1,0 +1,10 @@
+{
+    "id": "footer-data-1",
+    "section": "footer-1",
+    "copyright_text": "All rights reserved by Castellon Consulting",
+    "logo": [
+        {
+            "src": "../images/logo/logo-1.png"
+        }
+    ]
+}
