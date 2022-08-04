@@ -17,12 +17,6 @@
             "text": "Portfolio",
             "path": "portfolio"
         },
-
-        {
-            "id": 4,
-            "text": "Pricing",
-            "path": "pricing"
-        },
         {
             "id": 5,
             "text": "Blog",

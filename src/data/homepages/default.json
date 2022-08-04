@@ -145,26 +145,6 @@
                     "likeCount": 600
                 },
                 {
-                    "id": 2,
-                    "title": "Shopify E-Commerce Website showcasing this companys products. ",
-                    "category": "Shopify",
-                    "texts": [
-                        {
-                            "content": ""
-                        },
-                        {
-                            "content": ""
-                        }
-                    ],
-                    "images": [
-                        {
-                            "src": "../images/portfolio/portfolio-02.png"
-                        }
-                    ],
-                    "path": "https://titistoys.com/",
-                    "likeCount": 750
-                },
-                {
                     "id": 3,
                     "title": "Full Portfolio Website showcasing this companies projects and achievements.",
                     "category": " Wordpress Development",
@@ -182,6 +162,26 @@
                         }
                     ],
                     "path": "https://swecinc.com/",
+                    "likeCount": 600
+                },
+                {
+                    "id": 3,
+                    "title": "Basic Shopify E-commerce Website to sell my merchandise",
+                    "category": " Wordpress Development",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/DHA.png"
+                        }
+                    ],
+                    "path": "https://donthateappreciate.net/",
                     "likeCount": 600
                 }
             ]
